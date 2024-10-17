@@ -270,5 +270,5 @@ async function main() {
 
 
 module.exports = async () => {
-  await seedExampleApp();
+  //  seedExampleApp();
 };
